@@ -1,1 +1,3 @@
 "my name is adeel"
+email="adeelzafar919@gmail.com"
+designation="student"
